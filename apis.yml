@@ -1,8 +1,12 @@
 aid: deephow
 name: DeepHow
-description: 'DeepHow is a company surfaced as a portfolio company of sierra-ventures, techstars and added
-  to the API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'DeepHow is an enterprise Physical AI platform that helps industrial companies capture,
+  verify, and optimize operational knowledge across manufacturing, pharmaceutical, and electronics
+  assembly environments. It turns expert know-how into searchable digital workflows, uses vision AI
+  for live standard-operating-procedure (SOP) verification and on-demand visual inspection, and applies
+  time-and-motion AI for task analysis and operator training and enablement. DeepHow is used by 100+
+  enterprises including Stanley Black & Decker, Anheuser-Busch InBev, Foxconn, and GSK. It is backed by
+  Sierra Ventures and Techstars.'
 url: https://raw.githubusercontent.com/api-evangelist/deephow/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +15,31 @@ x-backed-by:
 - techstars
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://storage.googleapis.com/deephow-public/images/deephow-logo.png
 tags:
 - Company
 - Ai
+- Manufacturing
+- Knowledge Management
+- Video
+- Training
+- Computer Vision
+- Industrial
+- SOP Verification
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -26,3 +49,32 @@ maintainers:
 common:
 - type: Website
   url: https://deephow.com/
+- type: Login
+  url: https://www.deephow.ai
+- type: Support
+  url: https://support.deephow.com
+- type: Blog
+  url: https://deephow.com/blog
+- type: GitHubOrganization
+  url: https://github.com/deephow
+- type: StatusPage
+  url: https://status.deephow.com
+- type: Security
+  url: https://deephow.com/security-policy
+- type: Compliance
+  url: https://deephow.com/security-policy
+- type: PrivacyPolicy
+  url: https://deephow.com/deephow-privacy-policy
+- type: TermsOfService
+  url: https://deephow.com/terms-conditions
+- type: Conformance
+  url: conformance/deephow-conformance.yml
+- type: DomainSecurity
+  url: security/deephow-domain-security.yml
+- type: LLMsTxt
+  url: llms/deephow-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

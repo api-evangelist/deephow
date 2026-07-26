@@ -1,0 +1,28 @@
+# DeepHow
+
+> DeepHow is an enterprise Physical AI platform that helps industrial companies capture, verify, and optimize operational knowledge across manufacturing, pharmaceutical, and electronics assembly environments. It turns expert know-how into searchable digital workflows, uses vision AI for live standard-operating-procedure verification and on-demand visual inspection, and applies time-and-motion AI for task analysis and operator training.
+
+DeepHow is used by 100+ enterprises including Stanley Black & Decker, Anheuser-Busch InBev, Foxconn, and GSK. This profile is maintained by the API Evangelist network. DeepHow does not currently publish a public developer API or API reference; the entries below point at the company's public product, support, and policy surfaces.
+
+## Product
+- [DeepHow](https://deephow.com/): Industrial Physical AI platform for operational knowledge capture, SOP verification, and training.
+- [DeepHow App / Login](https://www.deephow.ai): Product web application sign-in.
+
+## Docs
+- [Help Center](https://support.deephow.com): Customer support and product help center.
+- [Blog](https://deephow.com/blog): Company blog and product updates.
+
+## Policies
+- [Security Policy](https://deephow.com/security-policy): Security and compliance posture (SOC 2 Type II).
+- [Privacy Policy](https://deephow.com/deephow-privacy-policy): Privacy policy.
+- [Terms & Conditions](https://deephow.com/terms-conditions): Terms of service.
+
+## Status
+- [Status Page](https://status.deephow.com): Service availability and uptime.
+
+## Code
+- [GitHub Organization](https://github.com/deephow): Public repositories.
+
+## Contact
+- [Request a Demo](https://deephow.com/contact-us): Sales and demo contact.
+- security@deephow.com: Security contact.

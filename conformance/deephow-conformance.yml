@@ -1,0 +1,35 @@
+generated: '2026-07-18'
+method: searched
+source: https://deephow.com/security-policy
+standards:
+  - id: soc2-type-ii
+    conforms: true
+    evidence: 'Security policy page states SOC 2 Type II certification covering security, availability, and confidentiality'
+  - id: iso-27001
+    conforms: false
+    evidence: 'Aligned to ISO 27001 controls but not stated as a formal certification'
+  - id: iso-27017
+    conforms: false
+    evidence: 'Aligned to ISO 27017 cloud security controls (not certified)'
+  - id: iso-27018
+    conforms: false
+    evidence: 'Aligned to ISO 27018 cloud personal-data protection controls (not certified)'
+  - id: nist-csf
+    conforms: false
+    evidence: 'References alignment to the NIST Cybersecurity Framework'
+  - id: gdpr
+    conforms: true
+    evidence: 'Security policy states compliance with GDPR data-protection requirements'
+  - id: ccpa
+    conforms: true
+    evidence: 'Security policy states compliance with CCPA requirements'
+compliance_program:
+  published: true
+  url: https://deephow.com/security-policy
+  certifications:
+    - SOC 2 Type II
+  contact: security@deephow.com
+  available_on_request:
+    - SOC 2 Type II report
+    - security questionnaire
+    - subprocessor disclosure
